@@ -2,8 +2,8 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 	<app
-		title="FNF: JP" main="funkin.backend.system.Main"
-		file="CodenameEngine" packageName="com.yoshman29.codenameengine"
+		title="Fryday Night Funkin' JP" main="funkin.backend.system.Main"
+		file="FNF-JP" packageName="com.yoshman29.codenameengine"
 		package="com.yoshman29.codenameengine"
 		version="0.1.0" company="FNF JP" />
 
